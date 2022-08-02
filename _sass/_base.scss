@@ -93,15 +93,18 @@ blockquote {
 // Profile
 
 .profile {
-  margin-left: 1rem;
+  margin-left: 2rem;
+  margin-bottom: 6rem;
   width: 100%;
 
   .address {
     margin-bottom: 5px;
-    margin-top: 5px;
-    font-family: monospace;
+    margin-top: 40px;
+    font-family: sans-serif;
+    padding-left: 2rem;
     p {
       display: inline-block;
+      line-height: 1.8;
       margin: 0;
     }
   }
