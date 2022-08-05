@@ -3,7 +3,7 @@ layout: page
 title: Armswing
 description: Using arm swings for accessible and immersive navigation in ar/vr spaces
 img: assets/img/armswing_main.png
-importance: 25
+importance: 27
 category: work
 youtubeId: _cEre2lu7AQ
 ---
