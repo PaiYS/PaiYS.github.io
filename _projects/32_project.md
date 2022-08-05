@@ -2,7 +2,7 @@
 layout: page
 title: ARCNC
 description: Virtual planning, control, and machining for a modular-based automated factory operation in an augmented reality environment
-img: assets/img/arcnc_main.jpg
+img: assets/img/ARCNC_main.jpg
 importance: 33
 category: work
 youtubeId: 2pYTsD5i1Is
