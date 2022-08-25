@@ -9,7 +9,7 @@ profile:
   image: pai_kmd.png
   image_cicular: true # crops the image to make it circular
   address: >
-    <p>pai@kmd.keio.ac.jp</p>
+    <p><a href='mailto:pai@kmd.keio.ac.jp'>pai@kmd.keio.ac.jp</a></p>
     <p>Graduate School of Media Design, Keio University </p>
     <p>Yokohama, Japan</p>
 
