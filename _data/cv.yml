@@ -83,8 +83,10 @@
       year: 2016 - current
       description: 
         - Empathetic Computing in Virtual Spaces (2022)
-        - Innovation Pipeline - Collaborative Prototyping - Virtual Prototyping (2021-2022)
-        - Innovation Pipeline - Collaborative Prototyping - Design Sprint (2021-2022)
+        - Innovation Pipeline - 2D Prototyping with Figma (2022)
+        - Innovation Pipeline - 3D Prototyping with PlayCanvas (2022)
+        - Innovation Pipeline - Virtual Prototyping (2021)
+        - Innovation Pipeline - Design Sprint (2021)
         - Masters Tutoring - Introduction to HCI (2018)
         - Workshop (Master Level) - Using WebVR with Vizor Interface (2016, 2017)
         - Masters Tutoring - Research Methodology (2017)
@@ -100,12 +102,16 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - title: Siggraph Asia 2019 XR 
+    - title: <a href='https://www.ahwin.org/dementia-eyes-ar-experience-mediva'>Healthy Aging Prize for Asian Innovation</a> 
+      year: 2022
+      items: 
+        - Second Prize Winner for Dementia Eyes
+    - title: <a href='https://sa2019.siggraph.org/attend/award-winners'>Siggraph Asia 2019 XR</a>
       year: 2019
       items: 
         - Runner up for best techical XR demo 
-    - title: SUI 2017
-      year: 2017
+    - title: <a href='http://sigmr.vrsj.org/SUI2016/award.html'>SUI 2016</a>
+      year: 2016
       items: 
         - Best poster award
     - title: Japan International Cooperation Agency (JICA)
