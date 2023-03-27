@@ -138,6 +138,10 @@
 - title: Grants and Fundings
   type: time_table
   contents:
+    - title: JST Cybernetic Being Moonshot Project
+      year: 2020 - 2025
+      items: 
+        - $5,000,000 / 5 years, managed by PI Minamizawa. I manage a portion dedicated to the proposal entitled the Empathic Metaverse Platform
     - title: Google ATAP Collaboration Project
       year: 2021
       items: 
