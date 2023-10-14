@@ -82,6 +82,11 @@
     - title: Keio University
       year: 2016 - current
       description: 
+        - Cybersecurity for Businesses (2023)
+        - Perception Aware Computing (2023)
+        - Research Methodology for Science and Engineering (2023)
+        - Innovation Pipeline - Metaverse Design with Mozilla Spark and PlayCanvas (2023)
+        - Thesis Writing Workshop (2022,2023)
         - Empathetic Computing in Virtual Spaces (2022)
         - Innovation Pipeline - 2D Prototyping with Figma (2022)
         - Innovation Pipeline - 3D Prototyping with PlayCanvas (2022)
@@ -102,6 +107,10 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - title: IMWUT 2023
+      year: 2023
+      items: 
+        - Vol. 6 Distinguished Paper Award for Total VRecall paper
     - title: <a href='https://www.ahwin.org/dementia-eyes-ar-experience-mediva'>Healthy Aging Prize for Asian Innovation</a> 
       year: 2022
       items: 
