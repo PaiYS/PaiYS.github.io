@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2023-10-14 16:11:00-0400
+date: 2023-07-01 16:11:00-0400
 inline: true
 ---
 
-Our previously published paper at IMWUT, Total VRecall, has been awarded the IMWUT Vol. 6 Distinguished Paper Award at Ubicomp/ISWC 2023! Only 8 out of 210 papers received the award, big congratulations especially to Kunal! You can read more about the paper <a href="https://yunsuenpai.com/assets/pdf/total_vrecall.pdf">here</a>.
-
+My interview by Eval Wolfangel regarding the future of spatial computing is now out in the German version of MIT technology review! The article is available online <a href="https://www.heise.de/select/tr/2023/7/2320908254643308437">here</a>, yet it requires paid subscription. Luckily, since you're here, <a href="ttps://yunsuenpai.com/assets/pdf/german MIT technology interview.pdf">this</a> links to the PDF file directly ;)
