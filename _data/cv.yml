@@ -4,9 +4,9 @@
     - name: Full Name
       value: Yun Suen Pai
     - name: Current Position
-      value: <a href="https://www.kmd.keio.ac.jp/faculty/yun-suen-pai">Project Senior Assistant Professor</a>
+      value: <a href='https://profiles.auckland.ac.nz/yun-suen-pai/about'>Lecturer</a>
     - name: Affiliation
-      value: Graduate School of Media Design, Keio University, Japan
+      value: School of Computer Science, University of Auckland, New Zealand
     - name: Research Interests
       value: AR/VR/MR, physiological sensing, human factors (behavior, perception, learning)
 
@@ -32,9 +32,16 @@
 - title: Work Experience
   type: time_table
   contents:
+    - title: Lecturer
+      institution: School of Computer Science, University of Auckland, New Zealand
+      year: 2023 - current
+      description:
+        - Co-direct the Empathic Computing Laboratory
+        - Currently recruiting masters/PhD students
+
     - title: Project Senior Assistant Professor
       institution: Graduate School of Media Design, Keio University, Japan
-      year: 2022 - current
+      year: 2022 - 2023
       description:
         - Conduct Research under the Cybernetic Being Moonshot Project.
         - Led the Physionetic Interactions (research on physiology and cybernetic avatars, 17 members) research group within the Embodied Media Laboratory
@@ -80,7 +87,7 @@
   type: time_table
   contents:
     - title: Keio University
-      year: 2016 - current
+      year: 2016 - 2023
       description: 
         - Cybersecurity for Businesses (2023)
         - Perception Aware Computing (2023)
