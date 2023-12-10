@@ -8,7 +8,7 @@ middle_name:
 last_name: Pai
 email:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Human-Computer Interaction researcher exploring XR and human factors. Senior Assistant Professor at Keio University, Japan.
+  Human-Computer Interaction researcher exploring XR and human factors. Lecturer at University of Auckland, New Zealand.
 footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
