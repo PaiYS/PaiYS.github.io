@@ -8,7 +8,7 @@
     - name: Affiliation
       value: School of Computer Science, University of Auckland, New Zealand
     - name: Research Interests
-      value: AR/VR/MR, physiological sensing, human factors (behavior, perception, learning)
+      value: AR/VR/MR, assistive/inclusive technology, physiological sensing, human factors (behavior, perception, learning)
 
 - title: Education
   type: time_table
@@ -86,6 +86,13 @@
 - title: Teaching
   type: time_table
   contents:
+    - title: University of Auckland
+      year: 2024 - present
+      description:
+        - Human-Computer Interaction (2024, 2025)
+        - Advanced Human-Computer Interaction (2024, 2025)
+        - Research Methods in Computer Science (2024)
+        - Introduction to Software Fundamentals (2025)
     - title: Keio University
       year: 2016 - 2023
       description: 
@@ -154,6 +161,10 @@
 - title: Grants and Fundings
   type: time_table
   contents:
+    - title: UoA FoS New Staff Grant
+      year: 2025 - 2026
+      items:
+        - $20,000 for proposal entitled Development of a Bioresponsive MR Toolkit for Neurodivergent Individuals to Overcome Social Anxiety
     - title: JST Cybernetic Being Moonshot Project
       year: 2020 - 2025
       items: 
